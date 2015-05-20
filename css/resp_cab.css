@@ -1,0 +1,1439 @@
+/**Creado por camilo barbosa*/
+
+@media screen and (max-height: 1440px){
+	
+}
+
+/*notebooks vertical orientation*/
+@media screen and (max-height: 1280px){
+	
+}
+
+/*tablets vertical orientation*/
+@media screen and (max-height: 1024px){
+	
+}
+
+/*Nexus 7 vertical*/
+@media screen and (max-height: 966px){
+	
+}
+
+/*Notebooks :3*/
+@media screen and (max-height: 950px){
+	
+}
+
+/*Notebooks :3*/
+@media screen and (max-height: 900px){
+	
+}
+
+/*Sony xperia:3*/
+@media screen and (max-height: 854px){
+	h1
+	{
+		font-size: 5rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 3.5rem;		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 3.5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 2rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:35px 0px 90px 0px;
+		padding:5%;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 2rem;
+	}
+	.lives
+	{
+		height: 3em;
+	}
+	#word
+	{
+		font-size: 3rem;
+	}
+	#teclado button
+	{
+		font-size: 4rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 4rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 3rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 2rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 2rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+
+/*Notebooks :3*/
+@media screen and (max-height: 800px){
+	h1
+	{
+		font-size: 7rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 5rem;	
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 4rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 2rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:0px 0px 120px 0px;
+		padding:5%;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 3rem;
+	}
+	.lives
+	{
+		height: 2em;
+	}
+	#word
+	{
+		font-size: 3rem;
+	}
+	#teclado button
+	{
+		font-size: 3.5rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 5rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 3rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 2.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:5%;
+		font-size: 3rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 5rem;
+	}
+}
+
+/*iPads (landscape)*/
+@media screen and (max-height: 768px){
+	h1
+	{
+		font-size: 7rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 5rem;	
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 4rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 2rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:0px 0px 120px 0px;
+		padding:5%;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 3rem;
+	}
+	.lives
+	{
+		height: 2em;
+	}
+	#word
+	{
+		font-size: 3rem;
+	}
+	#teclado button
+	{
+		font-size: 3.5rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 5rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 3rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 2.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:5%;
+		font-size: 3rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 5rem;
+	}
+}
+
+/*LG*/
+@media screen and (max-height: 753px){
+	h1
+	{
+		font-size: 5rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 3.5rem;		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 3.5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 3rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:50px 0px 90px 0px;
+		padding:5%;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 2rem;
+	}
+	.lives
+	{
+		height: 3em;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 2.5rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 2rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*iPhone 6 plus vertical*/
+@media screen and (max-height: 737px){
+	h1
+	{
+		font-size: 5rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 3.5rem;		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 3.5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 3rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:50px 0px 90px 0px;
+		padding:5%;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 2rem;
+	}
+	.lives
+	{
+		height: 3em;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 2.5rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 2rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*720*/
+@media screen and (max-height: 720px){
+	
+}
+
+
+
+
+/*iPhone 6 vertical*/
+@media screen and (max-height: 667px){
+	h1
+	{
+		font-size: 3rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 2rem;		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 3.5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 1rem;
+	}
+	#games
+	{
+		font-size: 1rem;
+		margin:50px 0px 90px 0px;
+		padding:5%;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 1.5rem;
+	}
+	.lives
+	{
+		height: 3em;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 2.5rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 2rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*Galaxy Note*/
+@media screen and (max-height: 640px){
+	h1
+	{
+		font-size: 3rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 2rem;		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 3.5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 1rem;
+	}
+	#games
+	{
+		font-size: 1rem;
+		margin:50px 0px 90px 0px;
+		padding:5%;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 1.5rem;
+	}
+	.lives
+	{
+		height: 2em;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 2.5rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 2rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*Nexus 7*/
+@media screen and (max-height: 604px){
+	h1
+	{
+		font-size: 7rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 5rem;
+		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 3.5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 1rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:0px;
+		padding:0px;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 3rem;
+	}
+	.lives
+	{
+		height: 2em;
+	}
+	#word
+	{
+		font-size: 3rem;
+	}
+	#teclado button
+	{
+		font-size: 3.5rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 2rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*Galaxy Tab and Kindle (landscape)*/
+@media screen and (max-height: 600px){
+	h1
+	{
+		font-size: 7rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 5rem;
+		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 3.5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 1rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:0px;
+		padding:0px;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 3rem;
+	}
+	.lives
+	{
+		height: 2em;
+	}
+	#word
+	{
+		font-size: 3rem;
+	}
+	#teclado button
+	{
+		font-size: 3.5rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 2rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*iPhone 5 vertical orientation*/
+@media screen and (max-height: 569px){
+	h1
+	{
+		font-size: 3rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 2rem;
+		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 3.5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 1rem;
+	}
+	#games
+	{
+		font-size: 1rem;
+		margin:0px 0px 55px 0px;
+		padding:0px 5% 0px 5%;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 1.5rem;
+	}
+	.lives
+	{
+		height: 1em;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 2rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 2rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*Motorola :c*/
+@media screen and (max-height: 540px){
+	h1
+	{
+		font-size: 6rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 3.5rem;
+		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 3.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 2rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:0px;
+		padding:0px;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 2.7rem;
+	}
+	.lives
+	{
+		height: 3em;
+	}
+	#word
+	{
+		font-size: 3.5rem;
+	}
+	#teclado button
+	{
+		font-size: 3.7rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 5rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 4rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 2.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 3rem;
+	}
+	#credits h2
+	{
+		font-size: 5rem;
+	}
+}
+
+/*cellphones vertical orientation*/
+@media screen and (max-height: 533px){
+	h1
+	{
+		font-size: 3rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 2rem;
+		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2rem;
+	}
+	#categorias h2
+	{
+		font-size: 2.5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 2rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:0px;
+		padding:0px;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 1.7rem;
+	}
+	.lives
+	{
+		height: 15px;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 1.7rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 2rem;
+	}
+	#credits h2
+	{
+		font-size: 4rem;
+	}
+}
+
+/*cellphones vertical orientation*/
+@media screen and (max-height: 480px){
+	h1
+	{
+		font-size: 3rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 2rem;
+		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2.5rem;
+	}
+	#categorias h2
+	{
+		font-size: 3.5rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 1rem;
+	}
+	#games
+	{
+		font-size: 1rem;
+		margin:0px;
+		padding:0px;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 1.5rem;
+	}
+	.lives
+	{
+		height: 1em;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 2rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+		font-size: 2rem;
+		
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*LG :'(*/
+@media screen and (max-height: 424px){
+	h1
+	{
+		font-size: 4rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 2rem;
+		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2rem;
+	}
+	#categorias h2
+	{
+		font-size: 3rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 2rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:0px;
+		padding:0px;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 1.5rem;
+	}
+	.lives
+	{
+		height: 25px;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 1.3rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*iPhone 6 landscape*/
+@media screen and (max-height: 420px){
+	h1
+	{
+		font-size: 4rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 2rem;
+		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2rem;
+	}
+	#categorias h2
+	{
+		font-size: 3rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 2rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:0px;
+		padding:0px;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 1.5rem;
+	}
+	.lives
+	{
+		height: 15px;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 1.3rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*Tablet 360*/
+@media screen and (max-height: 360px){
+	h1
+	{
+		font-size: 4rem;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 2rem;
+		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 2rem;
+	}
+	#categorias h2
+	{
+		font-size: 3rem;
+	}
+	/**juego_ready*/
+	article h2
+	{
+		font-size: 2rem;
+	}
+	#games
+	{
+		font-size: 2rem;
+		margin:0px;
+		padding:0px;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 1.5rem;
+	}
+	.lives
+	{
+		height: 15px;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 1.3rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 3rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 2.5rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1.5rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:2px;
+	}
+	#credits h2
+	{
+		font-size: 3rem;
+	}
+}
+
+/*iPhone 5, 4 landscape*/
+@media screen and (max-height: 320px){
+	h1
+	{
+		font-size: 3rem;
+		margin-top:1px;
+		
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 1.5rem;
+		
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 1rem;
+	}
+	#categorias h2
+	{
+		font-size: 2rem;
+	}
+	/**juego_ready*/
+	#games
+	{
+		font-size: 1rem;
+		margin:0px;
+		padding:0px;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 1rem;
+	}
+	.lives
+	{
+		height: 5px;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 1.2rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 2rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 1rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:1px;
+		font-size: 1.3rem;
+	}
+	#credits h2
+	{
+		font-size: 2rem;
+	}
+}
+
+/*LG OPTIMUS ONEEE*/
+@media screen and (max-height: 213px){
+	
+	h1
+	{
+		font-size: 2rem;
+		margin-top:0px;
+		margin-bottom:0px;
+	}
+	/*menu principal*/
+	
+	.first_menu button
+	{
+		font-size: 1rem;
+		
+	}
+	/*Primer boton*/
+	#categorias 
+	{
+		font-size: 1rem;
+	}
+	#categorias h2
+	{
+		font-size: 2rem;
+	}
+	/**juego_ready*/
+	#games
+	{
+		font-size: 1rem;
+		margin:0px;
+		padding:0px;
+	}
+	#clp1 a, #clp2 a, #clp3 a
+	{
+		font-size: 1rem;
+	}
+	.lives
+	{
+		height: 5px;
+	}
+	#word
+	{
+		font-size: 2rem;
+	}
+	#teclado button
+	{
+		font-size: 1rem;
+	}
+	/**Retar*/
+	#ret_cont h2 
+	{
+		font-size: 2rem;
+		margin-top:0px;
+	}
+	#ret_cont h3
+	{
+		font-size: 1rem;
+		margin-bottom:0px;
+	}
+	#ret_cont	
+	{
+		font-size: 1rem;		
+	}
+	/*Credits*/
+	#credits
+	{
+		padding:1px;
+		font-size: 1.3rem;
+	}
+	#credits h2
+	{
+		font-size: 1.5rem;
+	}
+	
+}
